@@ -1,11 +1,11 @@
 {
-    "name": "hi_dating_app",
-    "short_name": "hi_dating_app",
+    "name": "Hi! - A Real World Dating App",
+    "short_name": "Hi!",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Hi! - A Real World Dating App",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
