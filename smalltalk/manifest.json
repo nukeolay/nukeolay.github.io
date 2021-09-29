@@ -1,6 +1,6 @@
 {
-    "name": "small_talk",
-    "short_name": "small_talk",
+    "name": "Small Talk",
+    "short_name": "Small Talk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
