@@ -17,15 +17,15 @@ const RESOURCES = {
 "assets/packages/easy_localization/i18n/ar.json": "acc0a8eebb2fcee312764600f7cc41ec",
 "assets/packages/easy_localization/i18n/en-US.json": "5bd908341879a431441c8208ae30e4fd",
 "assets/packages/easy_localization/i18n/en.json": "5bd908341879a431441c8208ae30e4fd",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
-"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "fef3f9d40f503c9401fa3304987ffdb4",
-"/": "fef3f9d40f503c9401fa3304987ffdb4",
-"main.dart.js": "459454145db5f92099ffae3dea24a95c",
-"manifest.json": "369776978e9db6addfa250ec19f50ebc",
+"favicon.png": "168b9a9828ddd6635d7580559826d98a",
+"icons/Icon-192.png": "11a2201c24c9bf0a56db0aa399741e74",
+"icons/Icon-512.png": "99ed68d95daf0a9e97d57f0d21dfdc9c",
+"icons/Icon-maskable-192.png": "9cc288e81a5fcb0b1069e4267b5f38d5",
+"icons/Icon-maskable-512.png": "9cc288e81a5fcb0b1069e4267b5f38d5",
+"index.html": "3623bdf9f6b57326e19c28d4e1f36e56",
+"/": "3623bdf9f6b57326e19c28d4e1f36e56",
+"main.dart.js": "127da9bc01e89eb9fe7856639d0dd497",
+"manifest.json": "b3f17bc0643ebb42b72d90252e28835f",
 "splash/img/dark-1x.png": "a03fd8530f607f4a0308fb2cf23c1d6d",
 "splash/img/dark-2x.png": "d7ec768cdd8b4e39cc5c30c408756e33",
 "splash/img/dark-3x.png": "2bd67a576d1c8f4712e5e1e59ff87068",
@@ -35,7 +35,7 @@ const RESOURCES = {
 "splash/img/light-3x.png": "2bd67a576d1c8f4712e5e1e59ff87068",
 "splash/img/light-4x.png": "0766c3914569eb91867c5d6e32746cce",
 "splash/style.css": "a089b78db521fe707c16c83041319962",
-"version.json": "563bbb9e1a3cc8dced6b334257e8eeee"
+"version.json": "079e5e935419b9639463198c6fb045df"
 };
 
 // The application shell files that are downloaded before a service worker can
