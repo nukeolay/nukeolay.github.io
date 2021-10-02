@@ -20,4 +20,4 @@ say hello wave goodbye
 - [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
 
 ### You can contact me:
-qumyzapps@gmail.com
+[@qumyz.apps](https://www.instagram.com/qumyz.apps/)
