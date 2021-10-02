@@ -17,7 +17,7 @@ say hello wave goodbye
 *Web application made with Python. It converts images to Excel sheets.*
 
 **Can be found here:**
-- https://img2xls.herokuapp.com
+- [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
 
 ### You can contact me:
 qumyzapps@gmail.com
