@@ -19,4 +19,4 @@ say hello wave goodbye
 **Can be found here:**
 - [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
 
-### You can contact me: [@qumyz.apps](https://www.instagram.com/qumyz.apps/)
+**contact me:** [@qumyz.apps](https://www.instagram.com/qumyz.apps/)
