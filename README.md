@@ -1,5 +1,3 @@
-Here is list of my apps.
-
 ## Susanin - offline navigator!
 *Simple offline navigator made with Flutter framework.*
 
