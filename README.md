@@ -17,4 +17,4 @@
 **Can be found here:**
 - [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
 
-**contact me:** [qumyzapps@gmail.com](qumyzapps@gmail.com)
+**contact me:** [qumyzapps@gmail.com](mailto:qumyzapps@gmail.com)
