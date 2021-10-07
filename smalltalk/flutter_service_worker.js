@@ -22,20 +22,20 @@ const RESOURCES = {
 "icons/Icon-512.png": "99ed68d95daf0a9e97d57f0d21dfdc9c",
 "icons/Icon-maskable-192.png": "9cc288e81a5fcb0b1069e4267b5f38d5",
 "icons/Icon-maskable-512.png": "9cc288e81a5fcb0b1069e4267b5f38d5",
-"index.html": "8e5eeb794b636d677a4408c7edb8bff1",
-"/": "8e5eeb794b636d677a4408c7edb8bff1",
+"index.html": "612e67ab97836d2518db2f76722c8bde",
+"/": "612e67ab97836d2518db2f76722c8bde",
 "main.dart.js": "ec42650d4eb64ab8fb6ef6a17f31951f",
 "manifest.json": "5c383b4c966d7f13a05b84ec07a04df4",
-"splash/img/dark-1x.png": "a03fd8530f607f4a0308fb2cf23c1d6d",
-"splash/img/dark-2x.png": "d7ec768cdd8b4e39cc5c30c408756e33",
-"splash/img/dark-3x.png": "2bd67a576d1c8f4712e5e1e59ff87068",
-"splash/img/dark-4x.png": "0766c3914569eb91867c5d6e32746cce",
-"splash/img/light-1x.png": "a03fd8530f607f4a0308fb2cf23c1d6d",
-"splash/img/light-2x.png": "d7ec768cdd8b4e39cc5c30c408756e33",
-"splash/img/light-3x.png": "2bd67a576d1c8f4712e5e1e59ff87068",
-"splash/img/light-4x.png": "0766c3914569eb91867c5d6e32746cce",
+"splash/img/dark-1x.png": "ab979e750e1725a1de4b24dfe5c65daa",
+"splash/img/dark-2x.png": "7e5cfae80136da887d583595e3d373e1",
+"splash/img/dark-3x.png": "04f3a740b82a1d0ca90ac58ef4082ae4",
+"splash/img/dark-4x.png": "9827238a2d89c709ceb03dfe20bb80d2",
+"splash/img/light-1x.png": "ab979e750e1725a1de4b24dfe5c65daa",
+"splash/img/light-2x.png": "7e5cfae80136da887d583595e3d373e1",
+"splash/img/light-3x.png": "04f3a740b82a1d0ca90ac58ef4082ae4",
+"splash/img/light-4x.png": "9827238a2d89c709ceb03dfe20bb80d2",
 "splash/style.css": "a089b78db521fe707c16c83041319962",
-"version.json": "581025becc95c0f02cb03d3c34813b87"
+"version.json": "e80629bdc81e91e03d4c7438b9d60174"
 };
 
 // The application shell files that are downloaded before a service worker can
