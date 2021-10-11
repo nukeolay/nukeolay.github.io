@@ -7,7 +7,7 @@ _List of my apps._
 - [Google Play](https://play.google.com/store/apps/details?id=com.qumyz.susanin)
 
 ## Small Talk ##
-*A Real World Dating mobile application made with Flutter framework.*
+*Personal pickup assistant made with Flutter framework.*
 
 **Can be installed to mobile device via:**
 - [Google Play](https://play.google.com/store/apps/details?id=com.qumyz.small_talk)

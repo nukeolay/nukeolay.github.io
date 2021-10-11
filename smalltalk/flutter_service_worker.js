@@ -7,8 +7,8 @@ const RESOURCES = {
 "assets/assets/on_boarding/img1.png": "30e7156c63062dc33cba326e344df448",
 "assets/assets/on_boarding/img2.png": "1846f2e3a8aef6e0bd43e7b9c3c171f3",
 "assets/assets/on_boarding/img3.png": "e93b351b54fd8e40db2eccdcbfa64b39",
-"assets/assets/translations/en.json": "64063f8a7fe095616a5b637588641405",
-"assets/assets/translations/ru.json": "c501fbc5282cd2c98b04a0f2ec28217d",
+"assets/assets/translations/en.json": "496091eeb1e369934e4f4dc06aa81fd6",
+"assets/assets/translations/ru.json": "7d4c0115727b26c25271741a2129fe4c",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "a3f1370c513d7f5e18dfd4f3b75929cb",
@@ -22,12 +22,12 @@ const RESOURCES = {
 "icons/Icon-512.png": "99ed68d95daf0a9e97d57f0d21dfdc9c",
 "icons/Icon-maskable-192.png": "9cc288e81a5fcb0b1069e4267b5f38d5",
 "icons/Icon-maskable-512.png": "9cc288e81a5fcb0b1069e4267b5f38d5",
-"index.html": "293d58ddec308fb9ce6e7597fabf82c1",
-"/": "293d58ddec308fb9ce6e7597fabf82c1",
-"info/privacy_en.md": "d02560fbd6b41a61f8ab6fb9da5576f8",
+"index.html": "18bdb087d895254eb8a42c86bbe516a2",
+"/": "18bdb087d895254eb8a42c86bbe516a2",
+"info/privacy_en.md": "f225530236de83bea1d63be0f047b0f7",
 "info/privacy_ru.md": "fa30fac29df8816688110b0301ceab67",
-"info/support_en.md": "6cc75999fd616edb53b882a9ef89140b",
-"info/support_ru.md": "c75729e6b968f4a2143160add6b8865f",
+"info/support_en.md": "c0b9469d2de454913036bcdbed2fbd8f",
+"info/support_ru.md": "32a8ff22911490c984d9f19942c4e669",
 "main.dart.js": "e04a17d55c148a136596f07aad5eceba",
 "manifest.json": "5c383b4c966d7f13a05b84ec07a04df4",
 "splash/img/dark-1x.png": "ab979e750e1725a1de4b24dfe5c65daa",
@@ -39,7 +39,7 @@ const RESOURCES = {
 "splash/img/light-3x.png": "04f3a740b82a1d0ca90ac58ef4082ae4",
 "splash/img/light-4x.png": "9827238a2d89c709ceb03dfe20bb80d2",
 "splash/style.css": "a089b78db521fe707c16c83041319962",
-"version.json": "6fef05369e508e727343ac02d30c27ad"
+"version.json": "b48b182670b00ecb6f76f6ba95123ea0"
 };
 
 // The application shell files that are downloaded before a service worker can
