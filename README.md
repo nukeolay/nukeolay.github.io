@@ -10,6 +10,7 @@ _List of my apps._
 *Personal pickup assistant made with Flutter framework.*
 
 **Can be installed to mobile device via:**
+- [App Store](https://apps.apple.com/us/app/small-talk-pickup-easier/id1589417543)
 - [Google Play](https://play.google.com/store/apps/details?id=com.qumyz.small_talk)
 - [Progressive Web App](https://nukeolay.github.io/smalltalk/)
 
