@@ -6,7 +6,7 @@ _List of my apps._
 **Can be installed to mobile device via:**
 - [Google Play](https://play.google.com/store/apps/details?id=com.qumyz.susanin)
 
-## Small Talk ##
+## Small Talk - Pickup assistant##
 *Personal pickup assistant made with Flutter framework.*
 
 **Can be installed to mobile device via:**
