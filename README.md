@@ -1,12 +1,12 @@
 _List of my apps._
 
-## Susanin - offline navigator!
+## Susanin - offline navigator! ##
 *Simple offline navigator made with Flutter framework.*
 
 **Can be installed to mobile device via:**
 - [Google Play](https://play.google.com/store/apps/details?id=com.qumyz.susanin)
 
-## Small Talk - Pickup assistant##
+## Small Talk - Pickup assistant ##
 *Personal pickup assistant made with Flutter framework.*
 
 **Can be installed to mobile device via:**
