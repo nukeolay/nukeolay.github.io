@@ -20,8 +20,8 @@ _List of my apps._
 **Can be found here:**
 - [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
 
-## Instasnitch - Telegram bot! ##
-*Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you pics from public Instagram post.*
+## Instasnitch - Telegram bot ##
+*Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you pics from public Instagram posts.*
 
 **Can be found here:**
 - [https://t.me/instasnitchbot](https://t.me/instasnitchbot)
