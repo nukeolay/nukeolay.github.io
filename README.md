@@ -21,7 +21,7 @@ _List of my projects._
 - [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
 
 ## Instasnitch - Telegram bot ##
-*Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stroies and reels.*
+*Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stories and reels.*
 
 **Can be found here:**
 - [https://t.me/instasnitchbot](https://t.me/instasnitchbot)
