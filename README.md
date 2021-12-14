@@ -1,6 +1,6 @@
-_List of my apps._
+_List of my projects._
 
-## Susanin - offline navigator! ##
+## Susanin - offline navigator ##
 *Simple offline navigator made with Flutter framework.*
 
 **Can be installed to mobile device via:**
@@ -19,5 +19,11 @@ _List of my apps._
 
 **Can be found here:**
 - [img2xls.herokuapp.com](https://img2xls.herokuapp.com)
+
+## Instasnitch - Telegram bot ##
+*Bot made with Golang. Can be used to track for private Instagram accounts and inform you when they become public. Also, it can save and send you media from public Instagram posts, stories and reels.*
+
+**Can be found here:**
+- [https://t.me/instasnitchbot](https://t.me/instasnitchbot)
 
 **contact me:** [qumyzapps@gmail.com](mailto:qumyzapps@gmail.com)
