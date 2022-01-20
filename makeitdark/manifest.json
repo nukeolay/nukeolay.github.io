@@ -1,6 +1,6 @@
 {
-    "name": "makeitblack",
-    "short_name": "makeitblack",
+    "name": "makeitdark",
+    "short_name": "makeitdark",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
