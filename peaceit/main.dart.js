@@ -37455,7 +37455,7 @@ $1(a){return new A.hJ(A.ar(0,null,!1,t.Z))},
 $S:195}
 A.Ti.prototype={
 $3(a,b,c){var s=null,r=A.oG(s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.bu(A.cp(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),t.EN),s),q=A.cp(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s)
-return new A.n_(B.fC,A.aB9(),"[dark it]",A.akp(s,"Montserrat",B.M0,B.Lw,B.fp,new A.rz(r),A.a5I(s,s,s,A.cp(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),q,s,s,s,s,s,s,s,s,s,s,s,s)),!1,s)},
+return new A.n_(B.fC,A.aB9(),"[peace it]",A.akp(s,"Montserrat",B.M0,B.Lw,B.fp,new A.rz(r),A.a5I(s,s,s,A.cp(s,s,B.j,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),q,s,s,s,s,s,s,s,s,s,s,s,s)),!1,s)},
 $C:"$3",
 $R:3,
 $S:194}
