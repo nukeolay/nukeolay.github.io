@@ -1,0 +1,1642 @@
+[
+    {
+        "Accounting": [
+            {
+                "question": "Which statement is not an advantage of robotic process automation (RPA)?",
+                "answers": {
+                    "1": "Bots are more creative than humans",
+                    "2": "Bots do no need to take time off",
+                    "3": "Bots improve efficiency",
+                    "4": "Bots can eliminate human errors"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "What effect does a contra asset account have on a balance sheet?",
+                "answers": {
+                    "1": "A contra asset is not an accounting term",
+                    "2": "A contra asset has a credit balance and therefore a negative effect on total assets",
+                    "3": "A contra asset with a positive balance will increase overall liabilities",
+                    "4": "A contra asset has a debit balance and therefore a positive effect on total assets"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Internal controls may be preventative, detective, corrective, or directive. Which is a detective control?",
+                "answers": {
+                    "1": "data backups",
+                    "2": "physical inventory check",
+                    "3": "employee background checks",
+                    "4": "physical locks on inventory warehouse"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "On March 15, a business receives an invoice from the power company for utilities used in February. The retailer pays the invoice on April 1. The business uses accrual-based accounting. Which month should the business recognize the expense?",
+                "answers": {
+                    "1": "April",
+                    "2": "March",
+                    "3": "no record required",
+                    "4": "February"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Which choice is a general guideline for adequate separation of duties to prevent both fraud and error?",
+                "answers": {
+                    "1": "A person who has control over an asset should not safeguard that asset.",
+                    "2": "A person who has temporary or permanent custody of an asset should not account for that asset.",
+                    "3": "A person who has record-keeping responsibility should not make journal entries.",
+                    "4": "A person who has operational responsibility should not authorize transactions for the area."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What does the cost of a unit of product under absorption costing method consist of?",
+                "answers": {
+                    "1": "direct materials, direct and indirect labor, and fixed overhead",
+                    "2": "direct materials, indirect labor, and variable and fixed overhead",
+                    "3": "direct materials, direct labor, and both variable and fixed overhead",
+                    "4": "direct materials, direct and indirect labor, and variable overhead"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Which answer best describes accruals and deferrals?",
+                "answers": {
+                    "1": "Accruals are past cash receipts and payments, while deferrals are expected future cash receipts and payments.",
+                    "2": "Both accruals and deferrals are both expected future cash receipts and payments.",
+                    "3": "Accruals are expected future cash receipts and payments, while deferrals are past cash receipts and payments.",
+                    "4": "Both accruals and deferrals are not expected past cash receipts and payments."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What do you call a situation where more than one person collaborates to circumvent existing internal controls?",
+                "answers": {
+                    "1": "assigned responsibility",
+                    "2": "segregation of duties",
+                    "3": "fraud prevention",
+                    "4": "collusion"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Which is not an example of an internal control activity?",
+                "answers": {
+                    "1": "review of manufacturing plan",
+                    "2": "segregation of duties",
+                    "3": "bank reconciliations",
+                    "4": "approval process"
+                },
+                "correct_answers": [
+                    1
+                ],
+                "info": "MT: bank recons are a internal control, checking to see if figures match. Approval by different level of authorities help to prevent unathorized transactions - so its a control too. segregate duties also ensures that."
+            },
+            {
+                "question": "Which budgeting approach request justification of all expenditures?",
+                "answers": {
+                    "1": "zero-based budgeting",
+                    "2": "master budgeting",
+                    "3": "rolling budgets",
+                    "4": "bottom-up budgeting"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "What does the discontinued operations section of the income statement refer to?",
+                "answers": {
+                    "1": "disposal of a major product line or major geographical area of operations",
+                    "2": "sale of unused or obsolete equipment and discontinued inventory",
+                    "3": "plant shutdown or decommissioning of a facility",
+                    "4": "net income or loss for products completed and sold"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "How are the three financial statements (income statement, balance sheet, and cash flow statement) linked?",
+                "answers": {
+                    "1": "Only the assets are reflected in the cash flow statement, and the net income expenses correlate with the liabilities.",
+                    "2": "The net income goes to retained earnings, but the cash flow remains independent.",
+                    "3": "The gross profit goes to retained earning, and the shareholder equity total is added to the cash flow statement",
+                    "4": "The net income goes to the retained earning and to the cash flow statement"
+                },
+                "correct_answers": [
+                    4
+                ],
+                "info": "MT: odd qns. But it should be net profit 'npat' flows to retained earnings, and also starts the cashflow statement (so all linked and not independent). Assets are in balance sheet, net income is in income statement. npat goes to retained earnings, not gross profit."
+            },
+            {
+                "question": "Which is not one of the four perspectives of the balanced scorecard?",
+                "answers": {
+                    "1": "internal business",
+                    "2": "learning and growth",
+                    "3": "quantitative",
+                    "4": "customer"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What would be deducted from the balance per books when doing a bank reconciliation?",
+                "answers": {
+                    "1": "deposits in transit",
+                    "2": "bank service fees",
+                    "3": "outstating checks",
+                    "4": "electronic fund transfers/payments"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What situation could be the results of the three retails store employees sharing the same cash register?",
+                "answers": {
+                    "1": "a thorough internal control activity",
+                    "2": "a violation of assignment of responsibility",
+                    "3": "a violation of segregation of duties",
+                    "4": "a support process to avoid fraud"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "A firm has $1,000 in debt and $3,000 in assets. What is the firm's debt-to-equity ratio?",
+                "answers": {
+                    "1": "3",
+                    "2": "2",
+                    "3": "0.5",
+                    "4": "0.33"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "An external auditor is required to be independent when performing",
+                "answers": {
+                    "1": "all attestation services",
+                    "2": "all professional services (wrong ans, includes consulting)",
+                    "3": "all tax services",
+                    "4": "all consulting engagements (wrong ans)"
+                },
+                "correct_answers": [],
+                "info": "MT: tough qns, ambiguous options. Attest = validate audit data gathered. Consulting is less regulatory/ restrictive, = how to increase pie sales, versus audit/attestation = why you reported more pies in your fridge than we observed. Tax is grey, usually has to be internal audt committee approved or fees disclosed etc. but there are exceptions."
+            },
+            {
+                "question": "Proper segregation of functional responsibilities calls for separation of",
+                "answers": {
+                    "1": "custody, payment, and recording",
+                    "2": "authorization, custody, and execution",
+                    "3": "authorization, custody, and recording",
+                    "4": "custody, execution, and payment"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What does the degree of operating leverage represent?",
+                "answers": {
+                    "1": "how much the value of capital assets will change in response to a change in sales",
+                    "2": "how much the operating income of a company will change in response to a change in sales",
+                    "3": "the valuation of assets to determine how much additional debt the company can borrow",
+                    "4": "how much the sales of a company will change in response to a change in operating income"
+                },
+                "correct_answers": [
+                    2
+                ],
+                "info": "High operating leverage means a firm has a relatively fixed, and usually high cost base. So additional sales would incrementally drive more profits because those sales do not need to incur more costs to generate (like a factory, versus factory workers)"
+            },
+            {
+                "question": "Which characteristic would concern an auditor about the risk of material misstatements arising from fraudulent financial reporting?",
+                "answers": {
+                    "1": "limited employee turnover within the accounting and finance department",
+                    "2": "management's disregard of regulations and regulatory authorities",
+                    "3": "regularly reported bank reconciliations, including deposits in transit",
+                    "4": "capital assets sold at a loss before being depreciated fully"
+                },
+                "correct_answers": [
+                    2
+                ],
+                "info": "MT: regular bank recons and loyal employees are +ve. Nothing wrong with assets sold at lost before fully depreciated, like you can sell a plane at a loss even before it has been 'fully used'"
+            },
+            {
+                "question": "An employee who makes a sale, ships the goods, and bills the customer violates which control activity?",
+                "answers": {
+                    "1": "assignment of responsibility",
+                    "2": "audit verification",
+                    "3": "segregation of duties",
+                    "4": "review and reconciliation"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What trait distinguishes auditors from accountants?",
+                "answers": {
+                    "1": "The auditor can interpret accounting principles applicable to the country in which the client operates.",
+                    "2": "The auditor has extensive education beyond what is required for an accountant",
+                    "3": "The auditor can adapt to a rapidly changing profession.",
+                    "4": "The auditor has expertise in the gathering and interpretation of audit evidence."
+                },
+                "correct_answers": [
+                    4
+                ],
+                "info": "MT: auditors are focused on gathering and interpreting audit evidence in specific sectors. Both auditors and accountants would be familiar to the principles that the client operates in"
+            },
+            {
+                "question": "What is the purpose of an operational audit?",
+                "answers": {
+                    "1": "assessing the company's compliance with environmental laws and regulations",
+                    "2": "evaluating whether the organization is meeting the metrics set by management in order to achieve the goals and objectives set forth by the board of directors",
+                    "3": "assessing the organization's control mechanisms for overall efficiency and reliability",
+                    "4": "evaluating compliance with applicable laws, regulations, policies, and procedures"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Which statement is false?",
+                "answers": {
+                    "1": "The balanced scorecard aligns an organization's operational activities with its mission.",
+                    "2": "The balanced scorecard focuses on four primary areas: financial, customer, internal process, and learning and growth. (def true)",
+                    "3": "The balanced scorecard measures, tracks, and reports on a balance of qualitative and financial data and metrics. (def true)",
+                    "4": "The balanced scorecard ensures the organization's profitability aligns with director compensation and dividend expectations."
+                },
+                "correct_answers": [
+                    4
+                ],
+                "info": "MT: BSC is on improving efficiency - deliver goals and how to measure that quantitatively or qualitatively. Nothing to do with how to compensate"
+            },
+            {
+                "question": "Which choice is not a component of internal control?",
+                "answers": {
+                    "1": "information and communication",
+                    "2": "risk mitigation",
+                    "3": "monitoring",
+                    "4": "control environment"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "What is the difference between the cost of an asset and the accumulated depreciation for that asset?",
+                "answers": {
+                    "1": "depreciation value",
+                    "2": "prepaid asset",
+                    "3": "depreciation expense",
+                    "4": "book value"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "A company budgeted 1,200 washers, but only 1,000 are produced. It costs $10 to produce a widget. What is the materials variance?",
+                "answers": {
+                    "1": "200",
+                    "2": "2000",
+                    "3": "350",
+                    "4": "20"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Who does an audit committee report to?",
+                "answers": {
+                    "1": "external auditors",
+                    "2": "senior management",
+                    "3": "board of directors",
+                    "4": "union of employee representatives"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "A business purchased office equipment by issuing a one-year note payable. The entire amount of the note is due at the end of one year. How do you record this transaction?",
+                "answers": {
+                    "1": "Debt asset, credit equity",
+                    "2": "Debt liablity, credit asset.",
+                    "3": "Debit asset, credit liability",
+                    "4": "Debit equity, credit asset."
+                },
+                "correct_answers": [
+                    3
+                ],
+                "info": "MT answer - its Debit equipment (asset), Credit notes payable (liability). To +/- assets, need to dr/cr, inverse is true for liabilities. Long-form journal entry is: Borrow cash - Dr cash, Cr notes payable, then for equipment purchase - Dr equipment, Cr cash"
+            },
+            {
+                "question": "Which section of a financial annual report describes the corporation's accounting methods?",
+                "answers": {
+                    "1": "Notes to the financial statements",
+                    "2": "An auditor's report",
+                    "3": "Listing of the stockholders",
+                    "4": "Management discussion and analysis"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "What does 'independence' mean in auditing?",
+                "answers": {
+                    "1": "being an advocate for all clients",
+                    "2": "not being dependent on a client's fee",
+                    "3": "having only indirect financial interests in the auditee",
+                    "4": "taking an unbiased viewpoint"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "What would cause a bank to increase a depositor's account?",
+                "answers": {
+                    "1": "collecting a note receivable",
+                    "2": "paying a note payable",
+                    "3": "NSF checks ('non sufficient funds')",
+                    "4": "service changes"
+                },
+                "correct_answers": [
+                    2
+                ],
+                "info": "MT: depositor account os a liability to the bank - bank owes the money to depositor. bank collects a notes receivable from client means reducing client's cash/ deposits. Similar if NSF means the cheque owner does not have enough funds to transfer funds into the client's deposits, so theres no change in deposits."
+            }
+        ]
+    },
+    {
+        "Adobe Acrobat": [
+            {
+                "question": "In previous versions of Acrobat, you could mark a comment with a check mark, without having to use a drop-down menu. How can you restore this efficient functionality when using a newer version of Acrobat?",
+                "answers": {
+                    "1": "Preferences > identity",
+                    "2": "Preferences > Reviewing",
+                    "3": "Preferences > Reading",
+                    "4": "Preferences > Commenting"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "A PDF containing complex engineering drawings is failing to print completely. The printing device is an older model with a small amount of RAM. What setting might enable you to print the complex file without error?",
+                "answers": {
+                    "1": "Print as image",
+                    "2": "Auto-orientation",
+                    "3": "Print in grayscale",
+                    "4": "Custom scale"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Your client asks you to export their PDF brochure to multiple formats for various uses. However, you discover that you cannot meet one of their requests. Which is a format to which you CANNOT export?",
+                "answers": {
+                    "1": "JPEG",
+                    "2": "TIFF",
+                    "3": "EPS",
+                    "4": "SVG"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "After you finish creating form fields for a complicated form, the client submits a new PDF, with color changes, a new logo, and minor text edits. What is the most efficient way to incorporate the new artwork?",
+                "answers": {
+                    "1": "Prepare Form",
+                    "2": "Compare Files",
+                    "3": "Edit PDF",
+                    "4": "Organize Pages > Replace"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You need to send a 25 MB legal document to a client. However, their corporate email allows attachments of only 5 MB or fewer. You select File > Save As > Reduced Size PDF. This doesn’t reduce the file size enough, because the file has many photographs. Now you need to subdivide the document into smaller individual files. Where can you go to accomplish this?",
+                "answers": {
+                    "1": "Tools > Organize Pages > Split Document",
+                    "2": "Tools > Index",
+                    "3": "Tools > Edit PDF > Crop Pages",
+                    "4": "Tools > Optimize PDF"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "You would like to use Bookmarks to navigate a PDF, but the Bookmarks panel is not available. Why would that panel be unavailable?",
+                "answers": {
+                    "1": "The PDF does not contain any articles.",
+                    "2": "You are viewing the PDF in a web browser.",
+                    "3": "The file creator did not give the article a title.",
+                    "4": "You are viewing the PDF in Adobe Reader."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "As you examine large engineering documents, you would like to have the Marquee Zoom tool easily available all the time. What is the fastest way to add the Marquee Zoom tool to Common Tools?",
+                "answers": {
+                    "1": "Right-click in the toolbar and select Show Page Navigation Tools.",
+                    "2": "Right-click in the toolbar and select Show Page Display Tools.",
+                    "3": "Right-click in the toolbar and select Show Select & Zoom.",
+                    "4": "Right-click in the toolbar and select Customize Quick Tools."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "A person at a printing service provider is having difficulty printing a PDF due to font issues. Where can the person find out which fonts are used in the document?",
+                "answers": {
+                    "1": "Tools > Action Wizard",
+                    "2": "Tools > Print Production",
+                    "3": "File > Export To > Microsoft Word",
+                    "4": "File > Properties"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "To work more efficiently, you would like to create a shortcut in the tools pane, to the right of the document window, that includes multiple operations, such as Edit PDF, Organize Pages, and Export PDF. Which feature will let you accomplish this?",
+                "answers": {
+                    "1": "Action Wizard",
+                    "2": "Optimize PDF",
+                    "3": "Create Custom Tool",
+                    "4": "Customize Quick Tools"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "You are printing a PDF of an instruction manual. On some pages the only content is a video, but you would like a visual representation of the video area in the printed version. Which option in the Print dialog box will ensure that the video areas will print?",
+                "answers": {
+                    "1": "More Options",
+                    "2": "Document and Markups",
+                    "3": "Advanced > Output",
+                    "4": "Document and Stamps"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "In an effort to clean up a PDF form, you wish to align the top edges of a row of five fields. You used the Select tool (black arrow) to drag around the fields to select them all. You want to align all the fields to the top edge of the fifth field. How can you do that?",
+                "answers": {
+                    "1": "Alt-click (Windows) or Option-Click (Mac) in the fifth field to make it the origin field.",
+                    "2": "Click once more in the fifth field to make it the origin field.",
+                    "3": "Ctrl-click (Windows) or Command-click (Mac) in the fifth field to make it the origin field.",
+                    "4": "Shift-click in the fifth field to make it the origin field."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "You prefer seeing documents in the single document view, rather than in the tabbed document view. To accomplish this, you went to Edit > Preferences > General, and then cleared the check box for the tabbed preference. However, PDFs are still opening as tabs. How can you resolve this issue?",
+                "answers": {
+                    "1": "Reboot your computer.",
+                    "2": "Switch from Tools view to Home view.",
+                    "3": "Close any open files, then reopen the files.",
+                    "4": "Restart Acrobat."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Using Adobe Sign, you would like to send a document for two colleagues to approve. However, when you attempt to add the document to the files to be sent for signature, that file type is grayed out. What file type is not eligible for Adobe Sign?",
+                "answers": {
+                    "1": "GIF",
+                    "2": "JPEG",
+                    "3": "BMP",
+                    "4": "PSD"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "To ensure that users of older versions of Adobe Reader can fill and save forms, you chose File > Save As Other > Reader Extended PDF. Now you need to make further edits to the form. You have not applied any form security to the file, but you see an alert, “You cannot edit this file as a form due to its security settings.” What method can you use to edit the form?",
+                "answers": {
+                    "1": "File > Properties > Custom",
+                    "2": "File > Save a Copy",
+                    "3": "Preferences > Forms",
+                    "4": "File > Properties > Advanced"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Users submitted forms to you via email. Some files are .fdf (forms data format), and some files are .pdf documents. Which method will let you combine all the data into a .csv file?",
+                "answers": {
+                    "1": "Prepare Form > Fields",
+                    "2": "Prepare Form > Document Actions",
+                    "3": "Prepare Form > Document JavaScripts",
+                    "4": "Prepare Form > More"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "You turn around the files that you edit fairly quickly, and you edit many files. As a result, the long list of recent files in the Home view has become cumbersome. Where can you customize the number of recent files listed in the Home view?",
+                "answers": {
+                    "1": "Preferences > Page Display",
+                    "2": "Preferences > Reading",
+                    "3": "Preferences > General",
+                    "4": "Preferences > Documents"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You are about to submit a client’s PDF to a commercial printer. However, at the last minute, you discover a blemish in one of the images in the PDF, which the client requested that you fix. With no access to the original file, how can you do this?",
+                "answers": {
+                    "1": "Select Tools > Edit PDF, right-click the image, and select the Edit Using option.",
+                    "2": "Select Tools > Enhance Scans > Enhance Camera Image.",
+                    "3": "Select Tools > Enhance Scans > Enhance Scanned Document.",
+                    "4": "Right-click the image and select Add Image."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "You receive a PDF of a manuscript to be printed as an on-demand book. The writer also sent a new, single-page PDF to be added to the manuscript as the book's cover. Where can you go to accomplish this ?",
+                "answers": {
+                    "1": "Tools > Compare Files",
+                    "2": "Tools > Organize Pages",
+                    "3": "Tools > Edit PDF",
+                    "4": "Tools > Action Wizard"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "In the PDF form you are creating for a client, you are asked to create a drop-down field containing the list of states in the United States. The client requests that the field dispaly the instructional text 'Select your state' as a default choice when the form is opened. How can you ensure that the instructional text is diaplyed by default in the drop-down field?",
+                "answers": {
+                    "1": "Select the instructional text entry in the Dropdown Properties dialog box.",
+                    "2": "Choose commit Selected Value Immediately in the Dropdown Properties dialog box.",
+                    "3": "Choose Sort Items in the Dropdown Properties dialog box.",
+                    "4": "Choose Format Category > Special in the Dropdown Properties dialog box."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "To streamline index creation for a collection of academic documents, which option would result in a smaller index and thus faster searching for the user?",
+                "answers": {
+                    "1": "Structure Tags",
+                    "2": "XMP Fields",
+                    "3": "Custom Properties",
+                    "4": "Stop Words"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You create a PDF portfolio, and you would like to add encryption, without having to deal with each individual file. To encrypt a complete portfolio with a certificate, to verify via digital signature, where would you go to start?",
+                "answers": {
+                    "1": "Tools > Protect",
+                    "2": "Tools > Certificates",
+                    "3": "View > Portfolio Cover Sheet",
+                    "4": "Tools > Action Wizard"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You must prepare a PDF to meet the accessibility requirements of Section 508 compliance for a government agency. You have determined that there are some problems with the file which prevent it from passing accessibility tests. Where would you go to quickly to those issues and make the PDF accessible?",
+                "answers": {
+                    "1": "Tools > Edit PDF",
+                    "2": "Tools > Accessibility",
+                    "3": "Tools > Action Wizard",
+                    "4": "Tools > PDF Standards"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "In a fillable form, you would like the user to be able to enter their own text in a multi-choice form field, if none of the existing choices in the form field are suitable. Which type of form field would provide this option?",
+                "answers": {
+                    "1": "a list box field",
+                    "2": "a multi-line text field",
+                    "3": "a drop-down field",
+                    "4": "a text field with rich text formatting"
+                },
+                "correct_answers": []
+            },
+            {
+                "question": "A client sent a PDF to be included as a page in a book you are designing. The client misspelled several words in the PDF. The PDF is a scan of text. What can you do to fix the misspelled words?",
+                "answers": {
+                    "1": "Tools > Organize Pages",
+                    "2": "Tools > Accessibility",
+                    "3": "Took > Edit PDF",
+                    "4": "File > Export to > Microsoft Word"
+                },
+                "correct_answers": []
+            },
+            {
+                "question": "You would like to convert a layered Visio file to PDF. However, that option is not available. How can you control the conversion of Visio layers to layers in the exported PDF?",
+                "answers": {
+                    "1": "Click Create Layer Set.",
+                    "2": "Click Add Layers.",
+                    "3": "Deselect the Convert All Pages in Drawing option.",
+                    "4": "Select Retain Some Layers in the Selected Page."
+                },
+                "correct_answers": []
+            },
+            {
+                "question": "A small section of a 28-page PDF has been updated with new image and given to you as a 3-page PDF. You have both PDFs open in Acrobat. Before you update the 28-page file with the new pages, you need to verify that the text is unchanged. What is the best way to do this?",
+                "answers": {
+                    "1": "From the 28-page PDF, extract and save the three pages as a new PDF. For each of the two three-page PDFs, choose File > Export to > Text (Plain).",
+                    "2": "Arrange the two PDFs in side-by-side windows in Acrobat. Scroll to the first page of the section in the larger PDF, and compare the visually, line by line.",
+                    "3": "Go to View > Compare Files and choose Text Only. Then, in Settings, edit the Compare Page Range field of the larger document so that it is the same three-page range. Then click Compare.",
+                    "4": "Select the original text in the 3-page section of the 28-page PDF and copy it to the clipboard. Then, paste it into the new 3-page PDF, replacing all of it text."
+                },
+                "correct_answers": []
+            },
+            {
+                "question": "You need to send multiple documents to a potential client, and you would like to add security to all of the documents at once. What is the easiest method?",
+                "answers": {
+                    "1": "Portfolio",
+                    "2": "LiveCycle Rights Management",
+                    "3": "Security Envelope",
+                    "4": "Email Review"
+                },
+                "correct_answers": []
+            }
+        ]
+    },
+    {
+        "Adobe Illustrator": [
+            {
+                "question": "What would happen to the fill color of the object shown below if you copied and pasted it into another Illustrator file where the Document Color Mode was set to CMYK?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/002.png?raw=true",
+                "answers": {
+                    "1": "The fill color would be converted to CMYK values",
+                    "2": "The fill color would be unchanged.",
+                    "3": "Illustrator would display an error because you can't paste an object with RGB colors into a CMYK file.",
+                    "4": "The fill color would remain RGB but its appearance would change."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "You want to add some stars to the circular background object in the image below, using a scatter brush. How can you ensure that the stars appear only inside the circle?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/006.png?raw=true",
+                "answers": {
+                    "1": "Select the Screen blending mode before you brush.",
+                    "2": "Select the circle and click the Draw Inside button on the toolbar before you brush.",
+                    "3": "Add a fixed spacing value in the Scatter Brush options.",
+                    "4": "Select the brush stroke and the circle and make a compound path."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Why would you use the Save Selection command?",
+                "answers": {
+                    "1": "to preserve vector copies of objects you plan to rasterize",
+                    "2": "to save copies of selected objects in a new file",
+                    "3": "to preserve a selection of objects you may use again",
+                    "4": "to save selected objects in a Creative Cloud library"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Which action closes a path when you are actively drawing with the Pen tool?",
+                "answers": {
+                    "1": "clicking or dragging the first point in the path",
+                    "2": "choosing Object > Path > Join",
+                    "3": "pressing Return (Mac) or Enter (Windows)",
+                    "4": "switching to a different tool"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Which effect was used to give depth to the outline of California below?",
+                "questionDescription": "A map of California has a light beige main color and a small dark shadow.",
+                "answers": {
+                    "1": "3D Extrude & Bevel",
+                    "2": "Offset Path",
+                    "3": "3D Rotate",
+                    "4": "3D Revolve"
+                },
+                "correct_answers": []
+            },
+            {
+                "question": "When multiple objects are selected, how do you deselect just one of them?",
+                "answers": {
+                    "1": "Hold down the Option (Mac) or Alt (Windows) key and click the object you want to deselect.",
+                    "2": "Use the Lasso tool to deselect the unwanted object.",
+                    "3": "Shift-click the object you want to deselect",
+                    "4": "Press Command+Shift+A (Mac) or Ctrl+Shift+A (Windows) and click the object you want to deselect."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "You need to change the fill color of all the info circles in the map below. The circles were not created from a symbol. Other than Global Edit, which command would help you accomplish this task efficiently?",
+                "questionDescription": "A map of Southern California includes many info circles shaded in light blue.",
+                "answers": {
+                    "1": "Recolor Artwork",
+                    "2": "Select > Same > Appearance",
+                    "3": "Edit Colors",
+                    "4": "Live Paint"
+                },
+                "correct_answers": []
+            },
+            {
+                "question": "How can you reverse the direction of all the arrows on the spiral in the image below?",
+                "questionDescription": "A red lines spirals clockwise in, towards the center. Arrows along the line point in that direction.",
+                "answers": {
+                    "1": "Select Object > Path > Reverse Path Direction.",
+                    "2": "Select Effect > 3D > Rotate.",
+                    "3": "Use the Flip Horizontal and Flip Vertical commands in the Transform panel menu.",
+                    "4": "Drag the path with the Reshape tool."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "What would you do to the left anchor point to make the object symmetrical?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/005.png?raw=true",
+                "answers": {
+                    "1": "Remove it.",
+                    "2": "Cut the path at the anchor point.",
+                    "3": "Convert it to a corner point.",
+                    "4": "Convert it to a smooth point."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "When do you use the Knife tool?",
+                "answers": {
+                    "1": "when you want to cut an object at existing anchor points",
+                    "2": "when you want to cut an object into equal pieces",
+                    "3": "when you want to crop an embedded or linked image",
+                    "4": "when you want to quickly divide an object by drawing closed, freehand paths"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You have a full-color RGB document and you need to create a grayscale version that will print only on the black plate. How can you accomplish this?",
+                "answers": {
+                    "1": "Select everything in the document and then apply the Convert to Grayscale command.",
+                    "2": "Apply the Convert to Grayscale command and change the Document Color Mode to CMYK.",
+                    "3": "Use the Recolor Artwork command and select the 1-Color Job preset.",
+                    "4": "Delete all the color swatches from the Swatches panel except for Black and White."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "You have been working in the Essentials workspace and have changed the arrangement of panels, closing some that were open by default and opening others from the Window menu. How can you get back to the default arrangement of panels?",
+                "answers": {
+                    "1": "Switch to any other workspace, and then switch back to Essentials.",
+                    "2": "Quit Illustrator, press and hold Command+Shift+Option (Mac) or Ctrl+Shift+Alt (Windows), and relaunch Illustrator.",
+                    "3": "Choose Reset Essentials from the Workspace menu or the workspace switcher.",
+                    "4": "Quit and relaunch Illustrator."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Your boss likes the new logo you've designed but would like to see some variations using different color schemes. Which feature could you use to generate these variations quickly?",
+                "answers": {
+                    "1": "Variables",
+                    "2": "Recolor Artwork",
+                    "3": "Live Paint",
+                    "4": "Proof Colors"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "What is the fastest and most efficient way to ensure that all the objects shown in the figure below are placed precisely next to one another with no space between them?",
+                "answers": {
+                    "1": "Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0",
+                    "2": "Turn on Smart Guides and drag each object until it snaps to the one next to it.",
+                    "3": "Choose the Move command and in the dialog box set the Distance value to 0.",
+                    "4": "Select the objects with the Selection tool, then drag from the side of the selection bounding box until the objects snap together."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "You select a new color in the Color Picker and want to see several variations in different shades and tints. Which feature allows you to do this?",
+                "answers": {
+                    "1": "Adobe Color Themes",
+                    "2": "Color Guide",
+                    "3": "Color Groups",
+                    "4": "Recolor Artwork"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "What is the purpose of the Make Pixel Perfect command?",
+                "answers": {
+                    "1": "to create responsive web graphics that can resize with no loss of quality",
+                    "2": "to ensure graphics use only web-safe colors",
+                    "3": "to have Illustrator automatically choose the right export file format based on the contents of the graphic",
+                    "4": "to create sharp web graphics with no anti-aliasing of straight lines"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You have just one object on your artboard. You want to change its fill color from black to yellow, so you open the Color Picker and select a yellow color. But when you click OK, the fill of the object changes to gray, not yellow. Why is this happening?",
+                "answers": {
+                    "1": "The color mode of the fill is set to Grayscale.",
+                    "2": "The Luminosity blend mode is applied to the fill.",
+                    "3": "One of the Color Blindness options is chosen under Proof Setup in the View menu.",
+                    "4": "Overprint Preview is turned on in the Separations Preview panel."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "How can you ensure that proper nouns are not hyphenated in the document you're working on?",
+                "answers": {
+                    "1": "Turn off Hyphenate Capitalized Words in the Paragraph panel.",
+                    "2": "Select Justify All Lines in the Paragraph panel.",
+                    "3": "Decrease the Word Spacing in the justification options.",
+                    "4": "Increase the Hyphenation Zone value in the Paragraph panel so it is greater than the point size of the text."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "How could you quickly change all the hexagons to triangles in the image below?",
+                "answers": {
+                    "1": "In the Control panel, click the button to start editing similar shapes, then select Object > Path > Simplify.",
+                    "2": "In the Properties panel, click Start Global Edit and then use the Transform controls to reduce the Polygon Side Count to 3.",
+                    "3": "In the Properties panel, click Expand Shape. Then click Start Global Edit and use the Transform controls to reduce the Polygon Side Count to 3.",
+                    "4": "In the Control panel, click the button to start editing similar shapes, then select Object > Transform > Transform Each."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "You're working with a pen tablet and find that using the Ellipse, Rectangle, and Polygon tools to create objects is somewhat awkward. Which tool would allow you to draw, move, and edit these shapes with intuitive gestures?",
+                "answers": {
+                    "1": "the Smooth tool",
+                    "2": "the Shape Builder tool",
+                    "3": "the Pencil tool",
+                    "4": "the Shaper tool"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "When using the Live Paint Bucket tool to fill artwork with colors, you are unable to fill some areas due to the size of gaps between paths. What can you do in the Gap Options dialog box to fix this problem?",
+                "answers": {
+                    "1": "Select Small Gaps.",
+                    "2": "Select Close Gaps with Paths.",
+                    "3": "Select Large Gaps.",
+                    "4": "Turn off Gap Detection."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "You often use brushes from the Pattern Arrows brush library. How can you make it so this library automatically opens when you start Illustrator?",
+                "answers": {
+                    "1": "Select Show Pattern Brushes from the Brushes panel menu.",
+                    "2": "Select Persistent from the library's panel menu.",
+                    "3": "Open the library and save a custom workspace.",
+                    "4": "Select all the brushes in the Pattern Arrows brush library and choose Add to Brushes from the library's panel menu."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "In the image below, you are attempting to use the Join tool to remove the overlapping portions of two paths (highlighted in yellow), but nothing seems to be happening. Why is this?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/009.png?raw=true",
+                "answers": {
+                    "1": "The paths do not have a fill attribute.",
+                    "2": "Only one of the paths is selected, but both need to be selected.",
+                    "3": "One of the paths is selected but the Join tool works only with unselected paths.",
+                    "4": "Endpoints need to be selected in both paths before they can be trimmed and joined."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Which colorization method should you choose when using an art, scatter, or pattern brush to apply a spot color?",
+                "answers": {
+                    "1": "None",
+                    "2": "Tints",
+                    "3": "Tints and Shades",
+                    "4": "Hue Shift"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "You have drawn a five-pointed star in a design and want to change the inner radius. How would you achieve this?",
+                "answers": {
+                    "1": "An Inner Radius of a Star cannot be modified and would have to be redrawn.",
+                    "2": "Use the Scale tool while holding down Option+Shift (Mac) or Alt+Shift (Windows).",
+                    "3": "Select the inner points, then use the Scale tool to uniformly change the radius.",
+                    "4": "Double-click the Star tool and change the Inner Radius option."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What is the meaning of the three dots on the cloud icon in the image below?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/007.png?raw=true",
+                "answers": {
+                    "1": "The Alana fonts are deactivated.",
+                    "2": "The Alana fonts are for web-only use.",
+                    "3": "The Alana fonts are currently being activated.",
+                    "4": "Not all the fonts in the Alana family are activated."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "What command would you apply to make objects beneath the selected artwork visible inside the circle?",
+                "questionDescription": "A yellow rectangle has a circular selection in the center.",
+                "answers": {
+                    "1": "Make Pattern",
+                    "2": "Make Live Paint Group",
+                    "3": "Make Compound Path",
+                    "4": "Make Clipping Mask"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "The Symbol Sprayer tool has been used to apply a number of symbol instances to an illustration. You would like to modify the appearance of some instances using graphic styles. How would this be achieved?",
+                "answers": {
+                    "1": "Select instances with the Group Selection tool and then choose the desired graphic style.",
+                    "2": "Symbol instances in a symbol set cannot be overridden.",
+                    "3": "Select instances with the Direct Selection tool and then choose the desired graphic style.",
+                    "4": "With the Symbol Styler tool, select a graphic style and paint the style onto symbol instances."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "What happens when you click an existing anchor point with the Pen tool?",
+                "answers": {
+                    "1": "Any control handles are removed, converting the point into a corner point.",
+                    "2": "The path is split at that point.",
+                    "3": "The point is deleted.",
+                    "4": "The point is selected."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "When creating a mesh object, when should you use the Mesh tool instead of the Create Gradient Mesh command in the Object menu?",
+                "answers": {
+                    "1": "when you want to create simpler meshes so the performance of Illustrator is not negatively affected",
+                    "2": "when you want to place a highlight at the edge of the object",
+                    "3": "when you want to create mesh lines at equally spaced intervals within the object",
+                    "4": "when you want to create mesh lines at one or more specific locations within the object"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "When viewing the artwork shown below in Outline mode, what can you tell about the word 'backpack'?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/008.png?raw=true",
+                "answers": {
+                    "1": "It has been converted to outlines.",
+                    "2": "It is live text.",
+                    "3": "It is a compound path.",
+                    "4": "It has a fill color of black."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "You would like the columns in a chart to cover the whole length of the category axis. What option would you choose?",
+                "answers": {
+                    "1": "In the Graph Type dialog, choose Category Axis and set the Tick Marks option to Full Width.",
+                    "2": "In the Graph Type dialog, under Graph Options, set the cluster width to 100 in the Options section.",
+                    "3": "In the first row of data, type 100% in each cell corresponding to the category columns.",
+                    "4": "Select the columns with the Direct Selection tool and use the Scale tool to modify the width."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "If you are looking for a tool in the toolbar and it is not visible, what should you do?",
+                "answers": {
+                    "1": "With nothing selected, click the More Tools button in the Properties panel.",
+                    "2": "Click the ellipsis at the bottom of the toolbar.",
+                    "3": "Turn on the tool in the preferences.",
+                    "4": "In the Window menu, click Window > Tools."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "The four flowers shown in the image below were created by applying an art brush to paths of different lengths. How can you prevent the distortion seen in flowers 2, 3, and 4 while keeping the size of the leaves and the width of the stem the same in all the flowers?",
+                "answers": {
+                    "1": "Open the Art Brush Options dialog box and select Scale Proportionally.",
+                    "2": "Expand the appearance of the distorted flowers and drag the flowers with the Selection tool.",
+                    "3": "Use the Pen tool to add points at the top and bottom of the stem, and then drag the points with the Direct Selection tool to remove the distortion.",
+                    "4": "Open the Art Brush Options dialog box, select Stretch Between Guides, and then place the guides so only the stem is between them."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "When printing an image with many out-of-gamut colors, which rendering intent would you choose to best preserve the visual relationship between colors—not the specific color values?",
+                "answers": {
+                    "1": "Absolute Colorimetric",
+                    "2": "Perceptual",
+                    "3": "Saturation",
+                    "4": "Relative Colorimetric"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Why would you use change the Expand Mesh value when using the Puppet Warp tool?",
+                "answers": {
+                    "1": "It allows you to work faster because modifying a larger mesh requires fewer calculations.",
+                    "2": "It allows you to modify disjointed objects together",
+                    "3": "It allows you to make greater modifications to an object.",
+                    "4": "It allows you to see the mesh more clearly."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "When using the Image Trace feature, which option has the most impact on the number of paths that are created in the tracing result?",
+                "answers": {
+                    "1": "Corners",
+                    "2": "Noise",
+                    "3": "Paths",
+                    "4": "Colors"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "If you want to create an image map, which panel would you use to make an object into a clickable region?",
+                "answers": {
+                    "1": "CSS Properties",
+                    "2": "Attributes",
+                    "3": "Links",
+                    "4": "SVG Interactivity"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Why use the Simplify command before exporting a web graphic to SVG format?",
+                "answers": {
+                    "1": "to reduce the number of points that must be represented in the code",
+                    "2": "to remove invisible points and lines",
+                    "3": "to reduce the output resolution so it's appropriate for web graphics",
+                    "4": "to combine redundant objects"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "You have designed the product label shown below. Your client wants the black circle to print as dark as possible and requires that none of the colorful logo elements show through the circle when the label is printed. What should you do?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/003.png?raw=true",
+                "answers": {
+                    "1": "Select the circle and turn on Overprint Fill in the Attributes panel.",
+                    "2": "Select the circle and apply the Multiply blending mode.",
+                    "3": "Fill the circle with a rich black color made up of all four process inks.",
+                    "4": "Use the Appearance panel to add a second black fill."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "You are working with an Illustrator file that includes a linked Photoshop file. Your client sends a new Photoshop file with a different name and asks you to replace the old one in the Illustrator file. Which command in the Links panel would you use to accomplish this?",
+                "answers": {
+                    "1": "Placement Options",
+                    "2": "Edit Original",
+                    "3": "Update Link",
+                    "4": "Relink"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "The fill colors of several instances of a dynamic symbol have been modified. What is the fastest way to return the fill color in every instance to its original appearance?",
+                "answers": {
+                    "1": "set the Export Type to Movie Clip",
+                    "2": "delete the symbol and expand all instances",
+                    "3": "convert the symbol to a static symbol",
+                    "4": "break the link to the symbol"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "In the gift card shown below, the magenta flower petals need to be printed with a varnish. How would you set up the file so the varnish is applied over the magenta color of the petals?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/004.png?raw=true",
+                "answers": {
+                    "1": "Use File Info to leave instructions for your print service provider.",
+                    "2": "Duplicate the petals to a new layer called 'Varnish'.",
+                    "3": "Make sure that the magenta color is from a spot color swatch.",
+                    "4": "Create copies of the petals on top of the original artwork and fill the petals with a new spot color swatch set to overprint."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Your client likes the pattern fill in the text below but wants the flowers to overlap more so there are smaller gaps. How could you accomplish that?",
+                "answers": {
+                    "1": "Select Size Tile to Art in the Pattern Options dialog box.",
+                    "2": "Increase the number of copies of the flower used to make the pattern.",
+                    "3": "Reduce the width and height in the Pattern Options dialog box.",
+                    "4": "Use the Overlap buttons in the Pattern Options dialog box."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Why would you turn on the Ignore Artboards option in the Print dialog box?",
+                "answers": {
+                    "1": "to prevent Illustrator from printing marks showing the borders of artboards",
+                    "2": "to print all artboards on one piece of paper",
+                    "3": "to prevent Illustrator from printing the names of artboards",
+                    "4": "to scale each artboard to the media size"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "You need to process a large batch of Illustrator files, applying the same sequence of transformations to each one. What is the most efficient way to do this?",
+                "answers": {
+                    "1": "Use the Global Edit command.",
+                    "2": "Use the Transform Again command.",
+                    "3": "Use the Transform Each command.",
+                    "4": "Use the Actions panel to record and play back the sequence of steps."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Why would you choose Enable Guides for 9-slice scaling when creating a symbol?",
+                "answers": {
+                    "1": "to allow portions of the symbol to be exported as separate graphics",
+                    "2": "to ensure that each instance of the symbol always maintains its original proportions when scaled",
+                    "3": "to include custom guides with the symbol so each instance is placed in the same position relative to the artboard",
+                    "4": "to allow instances of the symbol to be scaled without distorting the corners"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "What can you do in order to edit text in just one placed instance of a symbol?",
+                "answers": {
+                    "1": "Click the Edit Symbol button in the Control panel or Properties panel.",
+                    "2": "Edit the symbol instance name.",
+                    "3": "Double-click the instance with the Type tool.",
+                    "4": "Click the Break Link button in the Control panel or Properties panel."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Your colleague has asked you to provide the CSS code for an object in your document. What must you do to make Illustrator auto-generate the code for that particular object?",
+                "answers": {
+                    "1": "Drag the object into the Asset Export panel.",
+                    "2": "Select the object and choose Generate CSS from the CSS Properties panel.",
+                    "3": "Select the object and choose Copy Selected Style from the CSS Properties panel.",
+                    "4": "Give the object a name in the Layers panel."
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "You have drawn objects on planes using the perspective grid, but now want to change the angles of the grid to new vanishing points and have the artwork update automatically. What option should be enabled to achieve this result?",
+                "answers": {
+                    "1": "Enable Perspective Warp.",
+                    "2": "Enable Viewing Angle in the Define Grid dialog box.",
+                    "3": "Choose View > Perspective Grid > Lock Station Point",
+                    "4": "Enable 3D Transform."
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "What happens when you assign a different color profile to an image?",
+                "answers": {
+                    "1": "The onscreen appearance stays the same, but the color values in the image will change.",
+                    "2": "The onscreen appearance may change, but the color values in the image stay the same.",
+                    "3": "Neither the onscreen appearance nor the color values in the image will change. Only the metadata in File Info changes.",
+                    "4": "Both the onscreen appearance and the color values in the image will change"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Which image adjustment is not available as an adjustment layer?",
+                "answers": {
+                    "1": "Curves",
+                    "2": "Shadows/Highlights",
+                    "3": "Levels",
+                    "4": "Hue/Saturation"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "The illustrator tool which is shown as a white arrow is known as the ___",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/001.png?raw=true",
+                "answers": {
+                    "1": "Selection tool",
+                    "2": "Paint tool",
+                    "3": "Direct Selection Tool",
+                    "4": "Anchor Adjustment Tool"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Which of the following correctly defines the method by which Adobe Illustrator creates images.",
+                "answers": {
+                    "1": "Raster",
+                    "2": "Encryption",
+                    "3": "Extrapolation",
+                    "4": "Vector"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Adobe Illustrator terminology for drawn line is ___",
+                "answers": {
+                    "1": "Line",
+                    "2": "Gamma Line",
+                    "3": "Path",
+                    "4": "Point Successor"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Which of the following does the Paragraph menu not operate?",
+                "answers": {
+                    "1": "Indentation",
+                    "2": "Leading",
+                    "3": "Hyphenation",
+                    "4": "Format"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Which of the following tools will cut a path into two different paths.",
+                "answers": {
+                    "1": "scissors tool",
+                    "2": "knife tool",
+                    "3": "bisect tool",
+                    "4": "transform tool"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "The two overlapping boxes at the bottom of the Adobe Illustrator toolbox control ___",
+                "answers": {
+                    "1": "stroke and shadow",
+                    "2": "fill and stroke",
+                    "3": "history and undo",
+                    "4": "texture and gamma"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "A curve created in Adobe Illustrator is commonly referred to as ___",
+                "answers": {
+                    "1": "Bezier Curve",
+                    "2": "Venus Curve",
+                    "3": "Curved vector solution",
+                    "4": "Razerian Curve"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Which of the following is not a benefit of using layers?",
+                "answers": {
+                    "1": "artwork printing is controlled",
+                    "2": "artwork outlines are easily seen",
+                    "3": "artwork sections can be hidden",
+                    "4": "artwork is protected from change"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "The Pathfinder tool",
+                "answers": {
+                    "1": "combines grouped objects",
+                    "2": "finds a path for type",
+                    "3": "finds a path for stroke size",
+                    "4": "finds a path for rasterization"
+                },
+                "correct_answers": [
+                    1
+                ]
+            },
+            {
+                "question": "Selected tools from the toolbox will remain selected",
+                "answers": {
+                    "1": "For approximately 15 seconds",
+                    "2": "Until the computer is offline",
+                    "3": "Until the software is shut down",
+                    "4": "Until another tool is selected"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "In Adobe illustrator we create our design and Illustrator on ___",
+                "answers": {
+                    "1": "Pages",
+                    "2": "Canvas",
+                    "3": "Cardboard",
+                    "4": "Artboard"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "How many types of pages orientation is in Adobe Illustrator?",
+                "answers": {
+                    "1": "1",
+                    "2": "2",
+                    "3": "3",
+                    "4": "4"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Shortcut of Selection tool in Adobe Illustrator is ___",
+                "answers": {
+                    "1": "A",
+                    "2": "V",
+                    "3": "S",
+                    "4": "T"
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Why does the top point of this star appear different from the other points?",
+                "questionPicture": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/raw/main/adobe-illustrator/images/010.png?raw=true",
+                "answers": {
+                    "1": "The stroke has been outlined.",
+                    "2": "The stroke has a corner type of Bevel Join.",
+                    "3": "The star is an open path with two overlapping points at the top.",
+                    "4": "The Limit value in the Stroke panel is less than the stroke width."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "When creating a new color swatch, how can you ensure that the appearance of objects colored with that swatch will update if you edit the swatch at a later time?",
+                "answers": {
+                    "1": "Give the swatch a custom name.",
+                    "2": "Click Global in the Swatch Options dialog box.",
+                    "3": "Place the swatch in a color group.",
+                    "4": "Add the swatch to a Creative Cloud library."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "Which statement is true about working in Isolation mode?",
+                "answers": {
+                    "1": "You can print and export individual objects by isolating them first.",
+                    "2": "All non-isolated objects cannot be selected or edited.",
+                    "3": "You cannot isolate more than one object at a time.",
+                    "4": "You can Shift-click non-isolated objects to make them editable."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "When saving a file in Adobe Illustrator (AI) format, which setting is essential to ensure that someone using Acrobat Reader can open and view the file?",
+                "answers": {
+                    "1": "Preserve Paths",
+                    "2": "Create PDF Compatible File",
+                    "3": "Include Linked Files",
+                    "4": "Use Compression"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Drop shadows in a printed document appear pixelated. Which feature can you use to fix this?",
+                "answers": {
+                    "1": "Appearance of Black",
+                    "2": "Document Setup",
+                    "3": "Document Raster Effects Settings",
+                    "4": "Overprint Black"
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "Where can you find information about an image's author and copyright status?",
+                "answers": {
+                    "1": "the Document Setup dialog box",
+                    "2": "the Document Info panel",
+                    "3": "the Attributes panel",
+                    "4": "the File Info dialog box"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "What can happen if you don't add bleed to a print document?",
+                "answers": {
+                    "1": "Black strokes may appear thinner than expected.",
+                    "2": "Blank areas may be visible at the edges of the print.",
+                    "3": "Areas of 100% black may print lighter than expected.",
+                    "4": "Blank areas may be visible where two inks are printed adjacent to each other."
+                },
+                "correct_answers": [
+                    2
+                ]
+            },
+            {
+                "question": "How can you ensure that objects on a specific layer remain visible on screen in Illustrator but never appear when the file is printed?",
+                "answers": {
+                    "1": "Make a clipping mask with the layer selected.",
+                    "2": "Drag the layer to the bottom of the Layers panel.",
+                    "3": "Turn off the Print option for the layer.",
+                    "4": "Lock the layer."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "If you had to send a file to a colleague, how could you collect everything needed to work on it, including any non-Adobe fonts and linked images?",
+                "answers": {
+                    "1": "Select Select All and then Save Selection.",
+                    "2": "Use the Save as Template command.",
+                    "3": "Use the Package command.",
+                    "4": "Select Select All and then click the Add Content button in the Libraries panel."
+                },
+                "correct_answers": [
+                    3
+                ]
+            },
+            {
+                "question": "When working with a two-point perspective grid, which setting in the Define Perspective Grid dialog box do you use to change the size of grid cells so you can draw and move objects with more precision?",
+                "answers": {
+                    "1": "Scale",
+                    "2": "Viewing Distance",
+                    "3": "Viewing Angle",
+                    "4": "Gridling every"
+                },
+                "correct_answers": [
+                    4
+                ]
+            },
+            {
+                "question": "Which option do you use to create the stroke shown below?",
+                "questionPicture": "https://user-images.githubusercontent.com/13102859/135642887-d7dc854e-0eab-42cc-922e-1f3c04ce55c3.png",
+                "answers": {
+                    "1": "Round Join",
+                    "2": "Projecting Cap",
+                    "3": "Round Cap",
+                    "4": "Align Stroke to Outside"
+                },
+                "correct_answers": [
+                    3
+                ]
+            }
+        ]
+    }
+]
