@@ -18138,7 +18138,7 @@ this.c=c},
 nq:function nq(a,b){this.a=a
 this.b=b},
 CF:function CF(a){this.a=a},
-aoZ(){return new A.HA(A.a([new A.jt(new A.a3u(),"Start Quiz"),new A.jt(new A.a3v(),"Answers"),new A.jt(new A.a3w(),"About")],t.Aq),B.j)},
+aoZ(){return new A.HA(A.a([new A.jt(new A.a3u(),"Prepare yourself"),new A.jt(new A.a3v(),"Try Quiz"),new A.jt(new A.a3w(),"About")],t.Aq),B.j)},
 jt:function jt(a,b){this.a=a
 this.b=b},
 re:function re(a){this.a=a},
@@ -59304,10 +59304,10 @@ A.HA.prototype={
 G(a){var s=this.d,r=A.ac(s).i("az<1,lQ>")
 return A.ny(A.ap(new A.az(s,new A.a3t(a),r),!0,r.i("bj.E")),B.aG,B.bF,B.aq)}}
 A.a3u.prototype={
-$1(a){return A.ot(a).r4("/categories-screen",B.x5,t.X)},
+$1(a){return A.ot(a).r4("/categories-screen",B.la,t.X)},
 $S:64}
 A.a3v.prototype={
-$1(a){return A.ot(a).r4("/categories-screen",B.la,t.X)},
+$1(a){return A.ot(a).r4("/categories-screen",B.x5,t.X)},
 $S:64}
 A.a3w.prototype={
 $1(a){return A.ot(a).I3("/about-screen",t.X)},
