@@ -3,12 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bfa3717ec9fb9ee2fd2a99b5944f14dc",
-"assets/FontManifest.json": "ccfc6bad185acc9e6bf4f7b4568a2ba5",
+  "assets/AssetManifest.json": "1bc9e84443b37ced30fc30a13f9d1df2",
+"assets/FontManifest.json": "21128994c3ff6219e58fe6d5e7e71839",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "35f8e76a7caf0b61dbf58878145b7bbf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/doctis_design_system/fonts/DoctisIcons.ttf": "88dddebd7ea4edc91b6b2c8472f1df7d",
+"assets/packages/doctis_design_system/fonts/DoctisIconsL.ttf": "c9ee48f3c31b47bb40c2574e98858ab1",
+"assets/packages/doctis_design_system/fonts/DoctisIconsM.ttf": "1ac7005e06e632637b8a410d08860b9e",
+"assets/packages/doctis_design_system/fonts/DoctisIconsS.ttf": "b74c15c6b29cdf585b8d3bf776e0d235",
+"assets/packages/doctis_design_system/fonts/DoctisIconsXl.ttf": "827b8621d11f1041261e4d9f971687e9",
 "assets/packages/doctis_design_system/fonts/Muller-Bold.ttf": "042f50d0f9526f983153fd1bd306f73e",
 "assets/packages/doctis_design_system/fonts/Muller-Medium.ttf": "b7596d58ece9c7f1b4b8c2ac585c5bcc",
 "assets/packages/doctis_design_system/fonts/Muller-Regular.ttf": "5669d604e9dd2d72f38fe56a6c80d9da",
@@ -26,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "dd5530369669a8bac7fc2d5388beb138",
-"/": "dd5530369669a8bac7fc2d5388beb138",
-"main.dart.js": "75f758ab85a6bcbc932ff6031c9aed24",
+"index.html": "fe697748945d32c3b671d8cbaaf7466f",
+"/": "fe697748945d32c3b671d8cbaaf7466f",
+"main.dart.js": "f6ef5ccf9137d3658f2d0291c3ef171c",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
