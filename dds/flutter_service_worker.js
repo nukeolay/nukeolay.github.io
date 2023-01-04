@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b19d9bdfb1ad6579f28e66d57953115b",
-"assets/FontManifest.json": "c569e267617c1097e73ba244f107a536",
+  "assets/AssetManifest.json": "bfa3717ec9fb9ee2fd2a99b5944f14dc",
+"assets/FontManifest.json": "ccfc6bad185acc9e6bf4f7b4568a2ba5",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "35f8e76a7caf0b61dbf58878145b7bbf",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/doctis_design_system/fonts/DoctisIcons.ttf": "88dddebd7ea4edc91b6b2c8472f1df7d",
 "assets/packages/doctis_design_system/fonts/Muller-Bold.ttf": "042f50d0f9526f983153fd1bd306f73e",
 "assets/packages/doctis_design_system/fonts/Muller-Medium.ttf": "b7596d58ece9c7f1b4b8c2ac585c5bcc",
 "assets/packages/doctis_design_system/fonts/Muller-Regular.ttf": "5669d604e9dd2d72f38fe56a6c80d9da",
@@ -25,9 +26,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "23660cc31c5cdd7bcf47de82e6337f8d",
-"/": "23660cc31c5cdd7bcf47de82e6337f8d",
-"main.dart.js": "c5ed620c7fea8a787dd6d835566bdb9f",
+"index.html": "dd5530369669a8bac7fc2d5388beb138",
+"/": "dd5530369669a8bac7fc2d5388beb138",
+"main.dart.js": "75f758ab85a6bcbc932ff6031c9aed24",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
