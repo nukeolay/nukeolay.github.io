@@ -10,7 +10,7 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/doctis_design_system/fonts/DoctisIconsL.ttf": "c9ee48f3c31b47bb40c2574e98858ab1",
 "assets/packages/doctis_design_system/fonts/DoctisIconsM.ttf": "1ac7005e06e632637b8a410d08860b9e",
-"assets/packages/doctis_design_system/fonts/DoctisIconsS.ttf": "0c196a837e2ddfd1cb590f1826fad5b8",
+"assets/packages/doctis_design_system/fonts/DoctisIconsS.ttf": "8a96c9399727a5d44d87c26897b84550",
 "assets/packages/doctis_design_system/fonts/DoctisIconsXl.ttf": "827b8621d11f1041261e4d9f971687e9",
 "assets/packages/doctis_design_system/fonts/Muller-Bold.ttf": "042f50d0f9526f983153fd1bd306f73e",
 "assets/packages/doctis_design_system/fonts/Muller-Medium.ttf": "b7596d58ece9c7f1b4b8c2ac585c5bcc",
@@ -29,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "32086a95842f5dc07f033fae4da9345b",
-"/": "32086a95842f5dc07f033fae4da9345b",
-"main.dart.js": "da19989ad42a48ed067e1046821605fc",
+"index.html": "e0fbfa5fb80b80988a87a9877183483f",
+"/": "e0fbfa5fb80b80988a87a9877183483f",
+"main.dart.js": "f0adf0d5e4faaeae0a5f63d74eedd30e",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
