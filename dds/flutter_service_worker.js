@@ -18,8 +18,6 @@ const RESOURCES = {
 "assets/packages/doctis_design_system/fonts/RobotoMono-Bold.ttf": "0339b745f10bb01da181af1cdc33c361",
 "assets/packages/doctis_design_system/fonts/RobotoMono-Medium.ttf": "b090e3202375adb631519fab6bf121c2",
 "assets/packages/doctis_design_system/fonts/RobotoMono-Regular.ttf": "7e173cf37bb8221ac504ceab2acfb195",
-"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
-"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/shaders/ink_sparkle.frag": "9eb8a7030c1073cc04ae1667e267e9e2",
 "canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
 "canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62",
@@ -31,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2a72cd05559d9230599cedcad416fd52",
-"/": "2a72cd05559d9230599cedcad416fd52",
-"main.dart.js": "bff718348fd640974881cabfecf17516",
+"index.html": "36ac8602737634d68d036dc3a3387589",
+"/": "36ac8602737634d68d036dc3a3387589",
+"main.dart.js": "67f296709050820bff71a0c32976033d",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
