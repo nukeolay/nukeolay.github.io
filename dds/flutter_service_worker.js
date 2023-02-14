@@ -19,7 +19,6 @@ const RESOURCES = {
 "assets/packages/doctis_design_system/fonts/RobotoMono-Bold.ttf": "0339b745f10bb01da181af1cdc33c361",
 "assets/packages/doctis_design_system/fonts/RobotoMono-Medium.ttf": "b090e3202375adb631519fab6bf121c2",
 "assets/packages/doctis_design_system/fonts/RobotoMono-Regular.ttf": "7e173cf37bb8221ac504ceab2acfb195",
-"assets/shaders/ink_sparkle.frag": "9eb8a7030c1073cc04ae1667e267e9e2",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
@@ -30,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5b3c34ce29550032093a095239d89dfb",
-"/": "5b3c34ce29550032093a095239d89dfb",
-"main.dart.js": "c8bbc67c7391ef696620c114e0fd9f11",
+"index.html": "b812497e5fd11ef753665bde4acd5714",
+"/": "b812497e5fd11ef753665bde4acd5714",
+"main.dart.js": "71473eb6f4b547ecda67acdd64cd10ca",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
