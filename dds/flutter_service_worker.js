@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/packages/doctis_design_system/fonts/DoctisIconsL.ttf": "c9ee48f3c31b47bb40c2574e98858ab1",
 "assets/packages/doctis_design_system/fonts/DoctisIconsM.ttf": "5f8d175049a813dfc812def00c8a304e",
 "assets/packages/doctis_design_system/fonts/DoctisIconsS.ttf": "610ce99d97c1c86a68223a849d4c32b6",
-"assets/packages/doctis_design_system/fonts/DoctisIconsXl.ttf": "827b8621d11f1041261e4d9f971687e9",
+"assets/packages/doctis_design_system/fonts/DoctisIconsXl.ttf": "c34f1519038ce738715a44909978c335",
 "assets/packages/doctis_design_system/fonts/DoctisIconsXs.ttf": "9276be6f045c56505b7a8649898a98f7",
 "assets/packages/doctis_design_system/fonts/Muller-Bold.ttf": "042f50d0f9526f983153fd1bd306f73e",
 "assets/packages/doctis_design_system/fonts/Muller-Medium.ttf": "b7596d58ece9c7f1b4b8c2ac585c5bcc",
@@ -29,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b5670028ad7e436938ae0a46e97f524e",
-"/": "b5670028ad7e436938ae0a46e97f524e",
-"main.dart.js": "b7d1564c6500ee8a67fb5e4ac915a2ef",
+"index.html": "9bcb7ed8ccbb44916b0d2a1a68ac0f69",
+"/": "9bcb7ed8ccbb44916b0d2a1a68ac0f69",
+"main.dart.js": "cb03d7c5d685649e0ed65fd2631e7e28",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"
 };
