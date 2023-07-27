@@ -12,7 +12,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "4c76ef490a105a7921648a0dbe83fe55
 "assets/packages/doctis_design_system/fonts/DoctisIconsL.ttf": "ddd9cacae7140a4346e9c20c5db00e4a",
 "assets/packages/doctis_design_system/fonts/DoctisIconsM.ttf": "cac6cfaa5fbf60c828b2e9ac45e8839e",
 "assets/packages/doctis_design_system/fonts/DoctisIconsS.ttf": "11b2e90ad75b2068defe6ef862d9187f",
-"assets/packages/doctis_design_system/fonts/DoctisIconsXl.ttf": "253a74b4351b23cf67e30e6f572b6594",
+"assets/packages/doctis_design_system/fonts/DoctisIconsXl.ttf": "78930306692c3647cf8df419dd1b23bb",
 "assets/packages/doctis_design_system/fonts/DoctisIconsXs.ttf": "4b5a453ead7e664f65d774de803d8ef0",
 "assets/packages/doctis_design_system/fonts/Muller-Bold.ttf": "042f50d0f9526f983153fd1bd306f73e",
 "assets/packages/doctis_design_system/fonts/Muller-Light.ttf": "2e0de2106c8aecec9e6456e880ad0be3",
@@ -35,9 +35,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "4c76ef490a105a7921648a0dbe83fe55
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "8462429bcbf1f137d8d690085dad532c",
-"/": "8462429bcbf1f137d8d690085dad532c",
-"main.dart.js": "359e4b23558777fe54f5b20575cc588c",
+"index.html": "ea80e71c9b6cf5947d265c7d67218692",
+"/": "ea80e71c9b6cf5947d265c7d67218692",
+"main.dart.js": "2df7ca0408514205e667eb5efada0f6b",
 "manifest.json": "9a0de1ff26661cd281cb9deb3db33b02",
 "version.json": "ff966ab969ba381b900e61629bfb9789"};
 // The application shell files that are downloaded before a service worker can
